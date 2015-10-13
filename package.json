@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "my first socket.io app",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "express": "4.10.2",
+    "multer": "^1.0.6",
     "socket.io": "1.2.0"
   }
 }
